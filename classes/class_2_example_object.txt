@@ -1,0 +1,14 @@
+Object: Table 6
+
+Attributes:
+tableNumber: 6
+seatCapacity: 4
+occupiedSeats: 0
+smokingSection: no
+orders: null
+
+Methods:
+addOrder: adds "Green curry chicken" to orders array
+fillTable: occupiedSeats = 4
+addPerson: occupiedSeats = 1
+addChair: seatCapacity = 5
