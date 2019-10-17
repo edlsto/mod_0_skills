@@ -1,0 +1,14 @@
+Class: Table
+
+Attributes:
+tableNumber (integer)
+seatCapacity (integer)
+occupiedSeats (integer)
+smokingSection (boolean)
+orders (array)
+
+Methods
+addOrder (appends a menu item to orders array)
+fillTable (changes occupiedSeats to seatCapacity)
+addPerson (increases occupiedSeats by 1)
+addChair (increases seatCapacity by 1)
