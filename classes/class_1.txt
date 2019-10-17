@@ -1,0 +1,13 @@
+Class: Menu item
+
+name (string)
+price (float)
+timeToPrepare (integer)
+ingredients (array)
+spicy (boolean)
+glutenFree (boolean)
+
+putOnSale (multiplies price by .75, then changes price to that amount)
+calculateTip (multiples price by .2)
+addIngredient (appends an ingredient to ingredients array)
+makeSpicy (changes spicy to true and appends hot chili sauce to ingredients array)
