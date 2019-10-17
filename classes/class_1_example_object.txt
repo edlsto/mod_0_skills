@@ -1,0 +1,13 @@
+Object: Green curry with chicken
+
+Attributes:
+name: "Green curry with chicken"
+price: 9.50
+timeToPrepare: 10
+ingredients: ["chicken", "green curry paste", "onion", "bell pepper", "coconut milk", "Thai basil"]
+
+Methods:
+putOnSale: 9.50 * .75 = 7.13 , changes price to 7.13
+calculateTip: 9.5 * .20 = 1.9
+putRushOnIt: 10 - 2 = 8 , changes timeToPrepare to 8
+makeSpicy: ingredients = ["chicken", "green curry paste", "onion", "bell pepper", "coconut milk", "Thai basil", "hot chili sauce"] 
